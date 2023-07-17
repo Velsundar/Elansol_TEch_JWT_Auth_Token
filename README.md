@@ -5,3 +5,12 @@ Deisgned with TailwindCSS
 <img width="424" alt="Screenshot 2023-07-17 111640" src="https://github.com/Velsundar/Elansol_TEch_JWT_Auth_Token/assets/120903410/78c1bcb1-b121-46f1-bed5-1597b6f325fc">
 <h2>Registration Page</h2>
 <img width="685" alt="Screenshot 2023-07-17 111655" src="https://github.com/Velsundar/Elansol_TEch_JWT_Auth_Token/assets/120903410/e235e6f9-325a-4aba-a525-7711951937b7">
+<h3>Clone</h3>
+git Clone https://github.com/Velsundar/Elansol_TEch_JWT_Auth_Token.git
+<h4>RUN Frontend</h4>
+>cd realClient
+>npm start
+<h4>RUN Server</h4>
+>cd server
+>node index.js
+
