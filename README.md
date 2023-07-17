@@ -8,9 +8,9 @@ Deisgned with TailwindCSS
 <h3>Clone</h3>
 git Clone https://github.com/Velsundar/Elansol_TEch_JWT_Auth_Token.git
 <h4>RUN Frontend</h4>
->cd realClient
->npm start
+> `cd realClient`
+> `npm start`
 <h4>RUN Server</h4>
->cd server
->node index.js
+> `cd server`
+> `node index.js`
 
